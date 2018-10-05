@@ -11,7 +11,7 @@ Here's an example of a randomized user:
         "lastName": "Benil",
         "username": "ehman_benil",
         "email": "ehman.b@notrealmail.com",
-        "password": "???", This will always be '???'
+        "password": "???", 
         "createdAt": "2018-10-05T09:32:38+01:00",
         "lastLogin": "2018-10-05T09:32:38+01:00",
         "isVerified": false

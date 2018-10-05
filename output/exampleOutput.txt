@@ -1,0 +1,59 @@
+EXAMPLE OUTPUT:
+
+[
+    {
+        "id": "1",
+        "firstName": "Ehman",
+        "lastName": "Benil",
+        "username": "ehman_benil",
+        "email": "ehman.b@notrealmail.com",
+        "password": "???",
+        "createdAt": "2018-10-05T09:32:38+01:00",
+        "lastLogin": "2018-10-05T09:32:38+01:00",
+        "isVerified": false
+    },
+    {
+        "id": "2",
+        "firstName": "Shawn",
+        "lastName": "Tjaden",
+        "username": "shawn_tjaden",
+        "email": "shawn.t@notrealmail.com",
+        "password": "???",
+        "createdAt": "2018-10-05T09:32:38+01:00",
+        "lastLogin": "2018-10-05T09:32:38+01:00",
+        "isVerified": false
+    },
+    {
+        "id": "3",
+        "firstName": "Ewan",
+        "lastName": "Murielle",
+        "username": "ewan_murielle",
+        "email": "ewan.m@notrealmail.com",
+        "password": "???",
+        "createdAt": "2018-10-05T09:32:38+01:00",
+        "lastLogin": "2018-10-05T09:32:38+01:00",
+        "isVerified": false
+    },
+    {
+        "id": "4",
+        "firstName": "Juna",
+        "lastName": "Keating",
+        "username": "juna_keating",
+        "email": "juna.k@notrealmail.com",
+        "password": "???",
+        "createdAt": "2018-10-05T09:32:38+01:00",
+        "lastLogin": "2018-10-05T09:32:38+01:00",
+        "isVerified": false
+    },
+    {
+        "id": "5",
+        "firstName": "Vowel",
+        "lastName": "Laure",
+        "username": "vowel_laure",
+        "email": "vowel.l@notrealmail.com",
+        "password": "???",
+        "createdAt": "2018-10-05T09:32:38+01:00",
+        "lastLogin": "2018-10-05T09:32:38+01:00",
+        "isVerified": false
+    }
+]
